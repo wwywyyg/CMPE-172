@@ -11,7 +11,7 @@ The ValAndVarUserDemo_SC is the screenshot of the ValAndVarUserDemo function out
 ![ValAndVarUserDemo_SC](https://github.com/wwywyyg/CMPE-172/blob/main/Lab2/Images/ValAndVarUserDemo_SC.png)
 
 ```
-a)In ValAndVarUserDemo is testing the "val" and "var" features.
+a)This demo is testing the "val" and "var" features.
 
 b)"val" is to for statement local variable, also the variable will  claim the variable to   final variable if use "val",
   "var" is almost the same with "val" the different is "var" not claim variable to final.
@@ -49,7 +49,7 @@ The ConstructorUserDemo_SC is the screenshot of the ConstructorUserDemo function
 ![ConstructorUserDemo](https://github.com/wwywyyg/CMPE-172/blob/main/Lab2/Images/ConstructorUserDemo_SC.png)
 
 ```
-a)This function is for testing Constructor annotation
+a)This demo is for testing Constructor annotation
 
 b)from source code we can see there are @NoArgsconstructor and @AllArgsconstructor,NoArgsconstructor is generate a constructor with no parameter.
   AllArgsconstructor is generates a constructor with 1 parameter for each field in your class.
@@ -60,7 +60,7 @@ b)from source code we can see there are @NoArgsconstructor and @AllArgsconstruct
 The DataUserDemo_SC is the screenshot of the DataUserDemo function output.
 
 ```
-a)This function is test @data annotation. 
+a)This demo is test @data annotation. 
 
 b)Use @data is means you have add @Getter/@Setter , @ToString, @EqualsAndHashCode and @RequiredArgsConstructor annotations in the same time.
   From the output, we can see the setter and getter of each filed in the class.
@@ -72,7 +72,7 @@ The NonNullUserDemo_SC is the screenshot of the NonNullUserDemo function output.
 ![NonNullUserDemo](https://github.com/wwywyyg/CMPE-172/blob/main/Lab2/Images/NonNullUserDemo_SC.png)
 
 ```
-a)This function is test the @NoNull annotation.
+a)This demo is test the @NoNull annotation.
 
 b)NoNull is judge the object is null or not null, if it's null, it will throw NullPointerException.
   In source code , there is @NoNull before string userName, and the output is throw the  NullPointerException,  means  the userName is Null.
