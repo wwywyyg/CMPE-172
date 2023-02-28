@@ -52,7 +52,7 @@ The ConstructorUserDemo_SC is the screenshot of the ConstructorUserDemo function
 a)This demo is for testing Constructor annotation
 
 b)from source code we can see there are @NoArgsconstructor and @AllArgsconstructor,NoArgsconstructor is generate a constructor with no parameter.
-  AllArgsconstructor is generates a constructor with 1 parameter for each field in your class.
+  AllArgsconstructor is generates a constructor with 1 parameter for each field in your class. In this demo, the parameter are userId, userName and userAge.
 
 ```
 
